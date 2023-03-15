@@ -1,6 +1,6 @@
 # Divvy Bike Share Data Analysis Project
 ## Introduction
-This project analyzes the Divvy Bike Share dataset to gain insights into how consumers are using bicycles and to discover trends and insights for Divvy Share's marketing strategy. The dataset includes trip history data from 2021, as well as additional datasets containing customer information.
+This project analyzes the Divvy Bike Share dataset to gain insights into how consumers are using bicycles and to discover trends and insights for Divvy Share's marketing strategy. The dataset includes trip history data from 2021. 
 
 ## Business Objectives
 The main business objectives for this project are as follows:
